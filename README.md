@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I’m currently learning github.
+What a surprise!
 <!--
 **Behappy1224/Behappy1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
